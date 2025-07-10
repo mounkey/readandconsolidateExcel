@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("readandconsolidateExcel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+256a37061dc6d04a5b60b65e71eab4f44b779197")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bc0485fac67555e7ab4ae46e217f59bb69ea689")]
 [assembly: System.Reflection.AssemblyProductAttribute("readandconsolidateExcel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("readandconsolidateExcel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
